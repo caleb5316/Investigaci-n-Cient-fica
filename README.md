@@ -1,3 +1,4 @@
-# Investigaci-n-Cient-fica
+# H1 Investigación Científica
 Creado para compartir proyectos de investigación científica 
-Investugaciones Científicas 
+Investigaciones Científicas 
+### H3 Metodología de la investigación
